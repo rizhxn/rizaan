@@ -1,5 +1,3 @@
-<samp>
-alt+f4
-
-
-<samp>
+<p align="center">
+  best in the business
+</p>
